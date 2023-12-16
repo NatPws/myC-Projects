@@ -10,3 +10,9 @@ Hello, dear world!
 СОЗДАЛА НОВУЮ ВЕТКУ КОМАНДОЙ git branch text_formatting, 
 перешла на нее командой git checkout text_formatting, 
 на данный момент работаю в черновике
+
+находясь в ветке МАСТЕР ввела команду git merge text_formatting для слияния веток с мастером, далее ненужную ветку удалила командрой: git branch -d text_formatting
+
+
+добавлю картинку:
+![Моя новая игрушка!](211928_6433e708145fe.jpg.webp)
