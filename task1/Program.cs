@@ -2,6 +2,7 @@
 
 int a = 6;
 int b = 18;
-
-int result = a - b;
-System.Console.WriteLine(result);
+int c = a + b;
+int d = a - b;
+System.Console.WriteLine(c);
+System.Console.WriteLine(d);
